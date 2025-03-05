@@ -7,6 +7,9 @@ A parallelized implementation of Conway's Game of Life using CUDA.
 🖥️ Overview
 This project implements Conway's Game of Life using CUDA to leverage parallel computing on GPUs. It demonstrates how cellular automata can be efficiently simulated using CUDA's parallel processing capabilities.
 
+![Conway's Game of Life](https://github.com/aanirudh-n/ConwayGameOfLife/blob/main/Conway's%20game%20of%20life.gif?raw=true)
+
+
 🚀 Features
 Parallel execution of Game of Life rules using CUDA kernels.
 Supports a 2D grid with periodic boundary conditions.
